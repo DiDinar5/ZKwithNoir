@@ -1,0 +1,6 @@
+[package]
+name = "ZKwithNoir"
+type = "bin"
+authors = [""]
+
+[dependencies]
